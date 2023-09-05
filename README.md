@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Gustavo-Ribeiro-Lempfert/Gustavo-Ribeiro-Lempfert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Gustavo! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Gaúcho, adorador de gatos, degustador de café e amante de pães. 
+
+Cursando Análise e desenvolvimento de sistemas na Univates, Desenvolvimento back-end com foco em JavaScript | Node.js na CubosAcademy e estudante assíduo da Alura.
+
+Com o objetivo de ingressar como front-end, back-end ou full stack.
+
+
+👩‍💻 Estágio em Backoffice
+
+🧠 Estou aprendendo Back-end com Node
+
+
+
+## 🛠 Habilidades
+HTML | CSS | JAVA | JavaScript | Node | TypeScript | React | PostgreSQL
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ribeiro-lempfert/)
+
