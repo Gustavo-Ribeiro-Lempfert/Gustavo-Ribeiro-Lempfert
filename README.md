@@ -12,7 +12,7 @@ Com o objetivo de ingressar como front-end, back-end ou full stack.
 
 👩‍💻 Estágio em Backoffice
 
- Estou aprendendo Back-end com Node [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://skills.thijs.gg)
+ Estou aprendendo Back-end com Node [![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg)
 
 
 
