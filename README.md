@@ -9,12 +9,7 @@ Cursando Análise e desenvolvimento de sistemas na Univates, Desenvolvimento bac
 
 Com o objetivo de ingressar como front-end, back-end ou full stack.
 
-
-👩‍💻 Estágio em Backoffice
-
  Estou aprendendo Back-end com Node 
-
-
 
 ## 🛠 Habilidades
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=postgres)](https://skills.thijs.gg)
